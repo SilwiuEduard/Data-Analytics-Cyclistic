@@ -74,7 +74,19 @@ Data visualizations and dashboards were engineered using **Tableau** to present 
 │   ├── 09_top_15_stations.sql
 │   └── 10_financial_argument_duration_distribution.sql
 ├── visualizations/                   # Clean Tableau Chart Exports & Mini-Gallery
-│   ├── dashboard_preview.png
+│   ├── 04_1_daily_kpi_trends.png
+│   ├── 04_2_average_trip_duration_by_day.png
+│   ├── 05_1_average_trip_duration_by_month.png
+│   ├── 05_1_monthly_kpi_trends.png
+│   ├── 06_1_classic_bikes_by_month.png
+│   ├── 06_2_classic_bikes_year_comparison.png
+│   ├── 06_3_classic_bikes_year_abandon_comparison.png
+│   ├── 07_2_electric_bikes_year_comparison.png
+│   ├── 4.1 07_1_electric_bikes_by_month.png
+│   ├── 08_average_hour_distribution.png
+│   ├── 10_1_financial_argument_duration_distribution.png
+│   ├── 10_2_financial_arg_duration_distribution_member.png
+│   ├── 10_3_financial_arg_duration_distribution_casual.png
 │   └── README.md
 ├── presentation/                     # Final Executive Deliverables
 │   ├── cyclistic_executive_presentation.pdf

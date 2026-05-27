@@ -11,7 +11,7 @@ The strategic business objective is to design a data-driven marketing blueprint 
 ## 📊 Quick Links & Interactive Assets
 
 - 📊 **Tableau Live Dashboard:** [Explore the Interactive Visualizations](https://public.tableau.com/views/Cyclist-KPIDataAnalysis-SilviuEduardChiriloaie/1_1NumberofridesperdayMembersvs_Casual?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- 📄 **Executive Presentation:** [View Final Slide Deck (PDF)](presentation/cyclistic_executive_presentation.pdf)
+- 📄 **Executive Presentation:** [View Final Slide Deck (PDF)](presentation/Cyclistic%20Stratetic%20Conversion%20Analysis.pdf)
 
 ---
 
